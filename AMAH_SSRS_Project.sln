@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1738
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "AMAH_SSRS_Project", "AMAH_SSRS_Project\AMAH_SSRS_Project.rptproj", "{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.Debug|Default.ActiveCfg = Debug
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.Debug|Default.Build.0 = Debug
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.Debug|Default.Deploy.0 = Debug
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.DebugLocal|Default.Build.0 = DebugLocal
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.Release|Default.ActiveCfg = Release
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.Release|Default.Build.0 = Release
+		{DEA1FEFA-72C7-47D3-B7D5-0A42DCBD5834}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C98A77-4F84-4037-85D2-6FEDD272257A}
+	EndGlobalSection
+EndGlobal
