@@ -49,6 +49,9 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSource Include="DW_Server_RapidCMI.rds" />
+  </ItemGroup>
+  <ItemGroup>
     <Report Include="New_Appointment.rdl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Reporting Services\Microsoft.ReportingServices.MSBuilder.targets" />
