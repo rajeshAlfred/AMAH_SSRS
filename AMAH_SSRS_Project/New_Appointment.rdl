@@ -749,7 +749,7 @@
                     </Style>
                   </TextRun>
                   <TextRun>
-                    <Value>=DateAdd("d",-1, Today())</Value>
+                    <Value>= iif(WeekdayName(weekday(Today()))="Monday", DateAdd("d",-3, Today()),DateAdd("d",-3, Today()))</Value>
                     <Style>
                       <FontSize>9pt</FontSize>
                       <FontWeight>Bold</FontWeight>
